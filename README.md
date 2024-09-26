@@ -1,21 +1,57 @@
-<h1>Hi 👋, I'm Joshua F. Fetalcurin</h1>
-<p>My name is Joshua Kim F. Fetalcurin, and I am based in Quezon City, Philippines. I possess a diverse skill set that includes problem-solving, technical proficiency, effective communication, and strong teamwork abilities. My analytical and critical thinking skills enable me to dissect complex challenges and formulate innovative solutions. Additionally, I have experience in developing web and mobile applications, as well as software systems. I am adept at communicating with both technical and non-technical stakeholders and excel in conflict resolution within a collaborative team environment.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
+# 👋 Hello, I'm Joshua F. Fetalcurin!
+
+Welcome to my GitHub profile! I'm a passionate software developer with a strong interest in building robust and scalable applications. I love working on open-source projects and continuously learning new technologies. Below you'll find more about my certifications, projects, and the programming languages I work with. Let's connect and build something amazing together! 💻✨
+
+---
+
+## 🎓 Certifications
+
+- **[Introduction to Data Analytics]** - Issued by [Simplilearn], [Feb 2024]
+- **[Data Analytics Essentials]** - Issued by [Cisco], [April 2024]
+- **[Intro to Programming]** - Issued by [Kaggle], [April 2024]
+- **[Big Data 101]** - Issued by [Cognitive Class], [May 2023]
+- **[Big Data Foundations - Level 1]** - Issued by [IBM], [May 2023]
+- **[Data Science 101]** - Issued by [Cognitive Class], [May 2023]
+- **[Data Science Foundations - Level 1]** - Issued by [IBM], [May 2023]
+- **[NoSQL and DBaaS 101]** - Issued by [Cognitive Class], [May 2023]
+
+---
+
+## 🚀 Projects
+
+Here are some of the projects I've worked on:
+
+1. **[DevRead]** - [Private Repo]  
+   _Andrroid-based E-Book Mobile Application_  
+
+   
+2. **[SignTalk]** - [Private Repo - Capstone project]  
+   _A Filipino Sign Language (FSL) Learning Mobile Application with Web-Based Administrator_  
+  
+
+3. **[Dialekto]** - [Private Repo]  
+   _Langauge Translation Mobile Applicaiton_  
+  
+4. **[Dialekto]** - [Private Repo]  
+   _Langauge Translation Mobile Applicaiton_
+   
+---
+
+## 🛠️ Programming Languages & Tools
+
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+- ![Kotlin](https://img.shields.io/badge/-Kotlin-339933?logo=kotlin&logoColor=white&style=flat)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+- ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bojumm&show_icons=true&locale=en" alt="Bojumm" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bojumm&" alt="Bojumm" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bojumm&show_icons=true&locale=en&layout=compact" alt="Bojumm" /></p>
