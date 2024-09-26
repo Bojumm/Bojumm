@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Joshua F. Fetalcurin!
 
-Welcome to my GitHub profile! I'm a passionate software developer with a strong interest in building robust and scalable applications. I love working on open-source projects and continuously learning new technologies. Below you'll find more about my certifications, projects, and the programming languages I work with. Let's connect and build something amazing together! 💻✨
+Welcome to my GitHub profile! I'm a passionate software developer interested in building robust and scalable applications. I love working on open-source projects and continuously learning new technologies. Below you'll find more about my certifications, projects, and the programming languages I work with. Let's connect and build something amazing together! 💻✨
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 Here are some of the projects I've worked on:
 
-1. **[DevRead]** - [Private Repo]  
+1. **[DevRead]**  
    _Andrroid-based E-Book Mobile Application_  
 
    
@@ -32,8 +32,8 @@ Here are some of the projects I've worked on:
 3. **[Dialekto]** - [Private Repo]  
    _Langauge Translation Mobile Applicaiton_  
   
-4. **[Dialekto]** - [Private Repo]  
-   _Langauge Translation Mobile Applicaiton_
+4. **[PinoyTaste]** 
+   _Filipino Cuisine Recipe Mobile Applicaiton_
    
 ---
 
@@ -43,6 +43,9 @@ Here are some of the projects I've worked on:
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bojumm&show_icons=true&locale=en" alt="Bojumm" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bojumm&" alt="Bojumm" /></p>
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bojumm&show_icons=true&locale=en&layout=compact" alt="Bojumm" /></p>
+
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bojumm" alt="Bojumm" /></a></p>
