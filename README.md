@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer interested in 
 Here are some of the projects I've worked on:
 
 1. **[DevRead]**  
-   _Andrroid-based E-Book Mobile Application_  
+   _Android-based E-Book Mobile Application_  
 
    
 2. **[SignTalk]** - [Private Repo - Capstone project]  
