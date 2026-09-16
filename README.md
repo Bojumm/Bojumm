@@ -1,10 +1,8 @@
 <div align="center">
 
-# Joshua Kim Fetalcurin
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Joshua%20Kim%20Fetalcurin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18)
 
-**Full-Stack Developer**
-
-Building web systems with a passion for developing scalable applications and creating seamless user experiences. I enjoy exploring new technologies, solving challenging problems, and crafting software that delivers meaningful impact.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Laravel+%2B+React+%2B+TypeScript;Turning+ideas+into+seamless+UX;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joshua--kim--fetalcurin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-kim-fetalcurin)
 [![GitHub](https://img.shields.io/badge/GitHub-%40Bojumm-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bojumm)
@@ -14,6 +12,8 @@ Building web systems with a passion for developing scalable applications and cre
 ---
 
 ### About
+
+Building web systems with a passion for developing scalable applications and creating seamless user experiences. I enjoy exploring new technologies, solving challenging problems, and crafting software that delivers meaningful impact.
 
 I'm a full-stack developer focused on web applications from Eloquent-backed APIs to Blade and React.js frontends. Most of my work involves building and maintaining systems for public sector and private clients: performance monitoring platforms, registries, and planning/review tools that need to be reliable, auditable, and easy for non-technical staff to use.
 
@@ -77,5 +77,7 @@ Recurring patterns in what I build: role-based access control, multi-tab data en
 <div align="center">
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/joshua-kim-fetalcurin)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer)
 
 </div>
