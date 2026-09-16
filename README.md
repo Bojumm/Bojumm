@@ -75,14 +75,6 @@ Recurring patterns in what I build: role-based access control, multi-tab data en
 ---
 
 <div align="center">
-![Followers](https://img.shields.io/github/followers/Bojumm?style=flat-square&label=Followers)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBojumm&label=Public%20Repos&query=%24.public_repos&style=flat-square)
- 
-</div>
-
----
-
-<div align="center">
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/joshua-kim-fetalcurin)
 
