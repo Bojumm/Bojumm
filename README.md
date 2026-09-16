@@ -15,7 +15,7 @@ Building web systems with a passion for developing scalable applications and cre
 
 ### About
 
-I'm a full-stack developer focused on Laravel-based web applications — from Eloquent-backed APIs to Blade and React.js frontends. Most of my work involves building and maintaining systems for public sector and private clients: performance monitoring platforms, registries, and planning/review tools that need to be reliable, auditable, and easy for non-technical staff to use.
+I'm a full-stack developer focused on web applications — from Eloquent-backed APIs to Blade and React.js frontends. Most of my work involves building and maintaining systems for public sector and private clients: performance monitoring platforms, registries, and planning/review tools that need to be reliable, auditable, and easy for non-technical staff to use.
 
 Recurring patterns in what I build: role-based access control, multi-tab data entry workflows, AJAX-driven dynamic tables, geospatial data visualization (GeoJSON, Leaflet, PSGC boundaries), and dashboard reporting with Chart.js.
 
